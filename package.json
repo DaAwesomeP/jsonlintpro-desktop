@@ -9,6 +9,9 @@
     "type": "git",
     "url": "https://github.com/DaAwesomeP/jsonlintpro-desktop.git"
   },
+  "engines": {
+    "node":">= 0.10.0"
+  },
   "title": "JSON Lint Pro Desktop",
   "description": "JSON Lint Pro in node-webkit",
   "version": "0.0.1",

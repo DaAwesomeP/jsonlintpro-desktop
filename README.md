@@ -21,7 +21,7 @@ Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-we
  - DMG for OSX (instead of ZIP) coming soon.
 
 ## Building
-You will need NodeJS and NPM.
+You will need [NodeJS](http://nodejs.org/download/) version 0.10.0 or greater and NPM (bundled with NodeJS).
 ```shell
 $ npm install
 $ grunt

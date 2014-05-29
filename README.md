@@ -23,8 +23,7 @@ Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-we
 ## Building
 You will need [NodeJS](http://nodejs.org/download/) version 0.10.0 or greater and NPM (bundled with NodeJS).
 ```shell
-$ npm install
-$ grunt
+$ npm install && grunt build
 ```
 It will create a folder named `build` with Windows (32-bit) binary, the OSX app, and Linux 32-bit and 64-bit builds.
 

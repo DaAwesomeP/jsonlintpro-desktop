@@ -28,12 +28,11 @@ It will create a folder named `build` with Windows (32-bit) binary, the OSX app,
 
 # TODO
 
- - Pre-built Releases/Binaries
  - NPM
  - Maybe GitHub Pages
  - Windows Installer
  - Ubuntu APT repository
- - Raspberry Pi testing
+ - Raspberry Pi testing (ARM)
 
 ## License
 

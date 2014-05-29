@@ -5,7 +5,7 @@ Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-we
 
 ## Pre-built Releases
 
-### v0.0.1 (Prerelease)
+### [v0.0.1 (Prerelease)](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/tag/v0.0.1)
 #### Downloads
 
  - Windows (32-bit): [jsonlintpro-desktop-win32-0.0.1.zip](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-win32-0.0.1.zip)

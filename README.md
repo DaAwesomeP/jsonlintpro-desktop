@@ -3,6 +3,8 @@ JSON Lint Pro for Desktop ![Release](http://img.shields.io/github/release/DaAwes
 
 Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-webkit` from its [source](https://github.com/arc90/jsonlintpro).
 
+![jsonlintpro-desktop-win32-0 0 1-screenshot](https://cloud.githubusercontent.com/assets/4472083/3122936/6248ca1e-e76d-11e3-8cfa-515350a91f50.PNG)
+
 ## Pre-built Releases
 
 ### [v0.0.1 (Prerelease)](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/tag/v0.0.1)

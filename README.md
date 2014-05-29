@@ -1,4 +1,4 @@
-jsonlintpro-desktop
-===================
+JSON Lint Pro for Desktop
+=========================
 
-JSON Lint Pro in node-webkit
+Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-webkit` from [source](https://github.com/arc90/jsonlintpro).

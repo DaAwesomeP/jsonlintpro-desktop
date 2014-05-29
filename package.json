@@ -1,0 +1,44 @@
+{
+  "name": "jsonlintpro-desktop",
+  "main": "index.html",
+  "homepage": "https://github.com/DaAwesomeP/jsonlintpro-desktop",
+  "bugs": "https://github.com/DaAwesomeP/jsonlintpro-desktop/issues",
+  "license": "MIT",
+  "author": "DaAwesomeP (http://daawesomep.github.io/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaAwesomeP/jsonlintpro-desktop.git"
+  },
+  "title": "JSON Lint Pro Desktop",
+  "description": "JSON Lint Pro in node-webkit",
+  "version": "0.0.1",
+  "keywords": [
+    "json",
+    "lint",
+    "pro",
+    "desktop",
+    "jsonlint",
+    "node-webkit"
+  ],
+  "window": {
+    "title": "JSON Lint Pro",
+    "icon": "images/favicon.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 1024,
+    "height": 768,
+    "position": "center",
+    "resizable": true,
+    "min_width": 640,
+    "min_height": 480
+  },
+  "webkit": {
+    "plugin": false,
+    "java": false,
+    "page-cache": false
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-node-webkit-builder": "~0.1.21"
+  }
+}

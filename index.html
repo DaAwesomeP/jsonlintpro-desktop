@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="description" content="JSON Lint is a web based validator and reformatter for JSON, a lightweight data-interchange format.">
+
+    <title>JSONLint - The JSON Validator</title>
+
+    <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen, projection">
+    <link href="css/jquery-linedtextarea.css" type="text/css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+</head>
+    <body>
+     	<a class="js-external-link" href="http://www.arc90.com/" id="arc90-logo" title="Originally an Arc90 Lab Experiment">Arc90.com</a>
+        <a class="js-external-link" href="https://daawesomep.github.com/" id="daawesomep-text" title="Ported to Desktop by DaAwesomeP">DaAwesomeP</a>
+        
+		<input type="hidden" id="reformat" value="1" />
+		<input type="hidden" id="compress" value="0" />
+
+		<div id="json-composite-placeholder">
+
+        <div id="results_header" class="hide">
+            <h3>
+                Results <img title="Loading..." class="reset" alt="Loading" src="images/loadspinner.gif" id="loadSpinner" name="loadSpinner">
+            </h3>
+        </div>
+
+        <script type="text/javascript">
+            var gui = require('nw.gui');
+            function supportExternalLinks(event) {
+                var href;
+                var isExternal = false;
+                function crawlDom(element) {
+                    if (element.nodeName.toLowerCase() === 'a') {
+                        href = element.getAttribute('href');
+                    }
+                    if (element.classList.contains('js-external-link')) {
+                        isExternal = true;
+                    }
+                    if (href && isExternal) {
+                        gui.Shell.openExternal(href);
+                        event.preventDefault();
+                    } else if (element.parentElement) {
+                        crawlDom(element.parentElement);
+                    }
+                }
+                crawlDom(event.target);
+            }
+            document.body.addEventListener('click', supportExternalLinks, false);
+            if (typeof JSON === 'undefined') {
+                document.write('<sc' + 'ript type="text/javascript" src="js/utils/json2.js"></sc' + 'ript>');
+            }
+        </script>
+        <script src="js/main.js"></script>
+        <script src="js/jsonlint/jsl.format.js"></script>
+        <script src="js/jsonlint/jsl.parser.js"></script>
+	</body>
+</html>

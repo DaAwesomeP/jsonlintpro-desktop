@@ -10,7 +10,7 @@ Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-we
 ### [v0.0.1 (Prerelease)](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/tag/v0.0.1)
 #### Downloads
 
- - Windows (32-bit): [jsonlintpro-desktop-win32-0.0.1.zip](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-win32-0.0.1.zip)
+ - Windows 32-bit (portable): [jsonlintpro-desktop-win32-0.0.1.zip](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-win32-0.0.1.zip)
  - Mac OSX: [jsonlintpro-desktop-mac-0.0.1.zip](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-mac-0.0.1.zip) (untested)
  - Linux 32-bit: [jsonlintpro-desktop-linux32-0.0.1.tar.gz](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-linux32-0.0.1.tar.gz) (untested)
  - Linux 64-bit: [jsonlintpro-desktop-linux64-0.0.1.tar.gz](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-linux64-0.0.1.tar.gz) (untested)

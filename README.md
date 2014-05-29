@@ -4,7 +4,19 @@ JSON Lint Pro for Desktop ![Release](http://img.shields.io/github/release/DaAwes
 Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-webkit` from its [source](https://github.com/arc90/jsonlintpro).
 
 ## Pre-built Releases
-Coming *very* soon.
+
+### v0.0.1 (Prerelease)
+#### Downloads
+
+ - Windows (32-bit): [jsonlintpro-desktop-win32-0.0.1.zip](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-win32-0.0.1.zip)
+ - Mac OSX: [jsonlintpro-desktop-mac-0.0.1.zip](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-mac-0.0.1.zip) (untested)
+ - Linux 32-bit: [jsonlintpro-desktop-linux32-0.0.1.tar.gz](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-linux32-0.0.1.tar.gz) (untested)
+ - Linux 64-bit: [jsonlintpro-desktop-linux64-0.0.1.tar.gz](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases/download/v0.0.1/jsonlintpro-desktop-linux64-0.0.1.tar.gz) (untested)
+
+#### Notes
+ - **Tested on Windows only.**
+ - No Linux installer yet (`deb` and `rpm`).
+ - DMG for OSX (instead of ZIP) coming soon.
 
 ## Building
 You will need NodeJS and NPM.

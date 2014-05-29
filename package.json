@@ -37,6 +37,9 @@
     "java": false,
     "page-cache": false
   },
+  "scripts": {
+    "test": "npm install && grunt"
+  },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-node-webkit-builder": "~0.1.21"

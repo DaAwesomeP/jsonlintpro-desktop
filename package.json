@@ -38,7 +38,7 @@
     "page-cache": false
   },
   "scripts": {
-    "test": "npm install && grunt"
+    "test": "npm install && npm install -g grunt && grunt"
   },
   "devDependencies": {
     "grunt": "~0.4.5",

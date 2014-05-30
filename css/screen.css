@@ -186,6 +186,58 @@ box-shadow: 0 1px 0 #F1F1F1;
 	opacity: 1;
 }
 
+.buttonLeft {
+	position: absolute;
+	left: 10px;
+	z-index: 1;
+	background-color: rgba(229, 233,235,0.8);
+	border: 1px solid #D2D4DB;
+	padding: 8px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	transition: all 100ms;
+	-moz-transition: all 100ms;
+	-webkit-transition: all 100ms;
+	-o-transition: all 2s;
+	text-align: center;
+	color: #000;
+	text-decoration: none;
+}
+
+.buttonLeft .icon {
+	font-size: 21px;
+	margin: 0px !important;
+	padding: 0px !important;
+	width: 22px;
+	height: 22px;
+	display: block;
+	opacity: 0.4;
+	background-repeat: no-repeat;
+}
+
+.buttonLeft .icon2 {
+	position: absolute;
+	z-index: 2;
+	top: 4px;
+	right: -1px;
+	font-size: 10px;
+	width: 22px;
+	height: 22px;
+	display: block;
+	opacity: 0.4;
+	background-repeat: no-repeat;
+}
+
+.buttonLeft:hover {
+	background-color: #FFF;
+}
+
+.buttonLeft:hover .icon,
+.buttonLeft:hover .icon2 {
+	opacity: 1;
+}
+
 .button.error {
   background-color: #C98A84;
   border-color: #AD5E56;

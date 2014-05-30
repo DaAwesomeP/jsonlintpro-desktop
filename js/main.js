@@ -92,7 +92,7 @@ if (!window.getComputedStyle) {
 			var linedTextAreaDiv	= textarea.wrap("<div class='linedwrap'></div>");
 			var linedWrapDiv 			= linedTextAreaDiv.parent();
 
-			linedWrapDiv.prepend("<div class='lines' style='width:50px'></div>");
+			linedWrapDiv.prepend("<div class='lines' style='width:75px'><a href='#' title='Open File' class='buttonLeft file-open-btn' style='top:20px;'><i class='icon-folder-open-o icon'></i></a><a href='#' title='Save File' class='buttonLeft file-save-btn' style='top:68px'><i class='icon-save icon'></i></a><a href='#' title='Save File As' class='buttonLeft file-save-as-btn' style='top:116px;'><i class='icon-save icon'></i><i class='icon-arrow-circle-o-down icon2'></i></a></a>");
 
 			var linesDiv	= linedWrapDiv.find(".lines");
 

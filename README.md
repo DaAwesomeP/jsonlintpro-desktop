@@ -2,7 +2,6 @@
 [![Release](http://img.shields.io/github/release/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases)
  [![License](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/DaAwesomeP/jsonlintpro-desktop/blob/master/LICENSE)
  [![Travis CI](http://img.shields.io/travis/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://travis-ci.org/DaAwesomeP/jsonlintpro-desktop)
- [![Coveralls](https://img.shields.io/coveralls/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://coveralls.io/r/DaAwesomeP/jsonlintpro-desktop)
  [![Gemnasium](http://img.shields.io/gemnasium/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://gemnasium.com/DaAwesomeP/jsonlintpro-desktop)
  [![Gitter chat](http://img.shields.io/badge/gitter-open-1DCE73.svg?style=flat)](https://gitter.im/DaAwesomeP/jsonlintpro-desktop)
 

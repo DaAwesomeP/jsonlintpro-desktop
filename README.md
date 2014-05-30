@@ -1,4 +1,4 @@
-# JSON Lint Pro for Desktop
+# ![favicon](https://cloud.githubusercontent.com/assets/4472083/3134208/035c1aea-e823-11e3-801f-745e47395039.png) JSON Lint Pro for Desktop
 [![Release](http://img.shields.io/github/release/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases)
  [![License](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/DaAwesomeP/jsonlintpro-desktop/blob/master/LICENSE)
  [![Travis CI](http://img.shields.io/travis/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://travis-ci.org/DaAwesomeP/jsonlintpro-desktop)

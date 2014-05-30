@@ -1,5 +1,5 @@
 # JSON Lint Pro for Desktop
-![Release](http://img.shields.io/github/release/DaAwesomeP/jsonlintpro-desktop.svg?style=flat) ![Release](http://img.shields.io/badge/license-MIT-red.svg?style=flat) ![Travis CI](http://img.shields.io/travis/DaAwesomeP/jsonlintpro-desktop.svg?style=flat) [![Gitter chat](https://badges.gitter.im/DaAwesomeP/jsonlintpro-desktop.png)](https://gitter.im/DaAwesomeP/jsonlintpro-desktop)
+[![Release](http://img.shields.io/github/release/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://github.com/DaAwesomeP/jsonlintpro-desktop/releases) [![License](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/DaAwesomeP/jsonlintpro-desktop/blob/master/LICENSE) [![Travis CI](http://img.shields.io/travis/DaAwesomeP/jsonlintpro-desktop.svg?style=flat)](https://travis-ci.org/DaAwesomeP/jsonlintpro-desktop) [![Gitter chat](https://badges.gitter.im/DaAwesomeP/jsonlintpro-desktop.png)](https://gitter.im/DaAwesomeP/jsonlintpro-desktop)
 =========================
 
 Simply, [JSON Lint Pro](http://pro.jsonlint.com/) ported to NodeJS with `node-webkit` from its [source](https://github.com/arc90/jsonlintpro).

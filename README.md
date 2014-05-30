@@ -44,7 +44,7 @@ It will create a folder named `build` with Windows (32-bit) binary, the OSX app,
 
 # TODO
 
- - Open, save, compare, and edit files right from the validator
+ - Open, save, compare, and edit files right from the validator **(in progress, #2)**
  - NPM
  - Maybe GitHub Pages
  - Windows Installer
